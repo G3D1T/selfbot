@@ -1,0 +1,2 @@
+# selfbot
+JUST A SELFBOT BETA
